@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8587" started-at="2018-01-24T09:14:29Z" finished-at="2018-01-24T09:14:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8587" started-at="2018-01-24T09:14:29Z" finished-at="2018-01-24T09:14:38Z">
+      <class name="SampleTest">
+        <test-method status="PASS" signature="getActivities()[pri:0, instance:SampleTest@174d20a]" name="getActivities" duration-ms="4883" started-at="2018-01-24T14:44:29Z" finished-at="2018-01-24T14:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getActivities -->
+        <test-method status="PASS" signature="postActivites()[pri:0, instance:SampleTest@174d20a]" name="postActivites" duration-ms="2497" started-at="2018-01-24T14:44:34Z" finished-at="2018-01-24T14:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postActivites -->
+        <test-method status="PASS" signature="updateActivities()[pri:0, instance:SampleTest@174d20a]" name="updateActivities" duration-ms="1076" started-at="2018-01-24T14:44:37Z" finished-at="2018-01-24T14:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateActivities -->
+      </class> <!-- SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
